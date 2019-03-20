@@ -1,24 +1,3 @@
-# README
+# A blog demo: getting started with Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+via https://www.yuque.com/ruby-china/rails-guides/source-zh-cn-getting-started (in Chinese)
