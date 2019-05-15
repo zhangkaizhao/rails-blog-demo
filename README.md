@@ -34,7 +34,7 @@ in `Gemfile` file due to an issue of sqlite3 gem version dependency.
 ### Run the development server
 
 ```sh
-bundle exec rails server
+bundle exec ./bin/rails server
 ```
 
 If there is no other Ruby gems installed with this Ruby installation, we can run without bundle, e.g.
